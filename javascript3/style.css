@@ -1,0 +1,81 @@
+@media(min-width:300px){
+    #image_div{
+        display: flex;
+        justify-content: center;
+        padding-top: 5rem;
+       
+    }
+#image_png{
+    width: 200px;
+    height: auto;
+   border-radius: 50px;
+}
+#div_button{
+    justify-content: center;
+    display: flex;
+    padding-top: 5rem;
+     
+}
+#hide_button{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rebeccapurple;
+    height: 35px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+}
+@media (min-width:700px) {
+    #image_div{
+        display: flex;
+        justify-content: center;
+        padding-top: 5rem;
+       
+    }
+#image_png{
+    width: 500px;
+    height: auto;
+   border-radius: 50px;
+}
+#div_button{
+    justify-content: center;
+    display: flex;
+    padding-top: 5rem;
+     
+}
+#hide_button{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rebeccapurple;
+    height: 35px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+}
+@media (min-width:1200px) {
+    #image_div{
+        display: flex;
+        justify-content: center;
+        padding-top: 5rem;
+       
+    }
+#image_png{
+    width: 800px;
+    height: auto;
+   border-radius: 50px;
+}
+#div_button{
+    justify-content: center;
+    display: flex;
+    padding-top: 5rem;
+     
+}
+#hide_button{
+    font-weight: bolder;
+    font-size: larger;
+    background-color: rebeccapurple;
+    height: 35px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+}
